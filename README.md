@@ -26,7 +26,7 @@ El juego cuenta con la estructura básica inicializada. A día de hoy, el motor 
 
 ### Lo que ya funciona (Hecho):
 * [x] Creación de la ventana de juego y lienzo (*canvas*) de dibujo.
-* [x] Renderizado y movimiento vertical fluido de la pala del Jugador 1 (Izquierda).
+* [x] Renderizado y movimiento vertical fluido de la pala del Jugador 1 y 2 (Izquierda y derecha).
 * [x] Movimiento automatizado lineal de la pelota.
 * [x] Sistema básico de colisiones con los bordes superior e inferior de la pantalla.
 
